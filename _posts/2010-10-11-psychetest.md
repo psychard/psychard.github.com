@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Website
+title: I am a blog post.
 ---
 
 {{ this is a silly test }}
