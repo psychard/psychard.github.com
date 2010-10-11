@@ -3,7 +3,7 @@ layout: post
 title: I am a blog post.
 ---
 
-{{ this is a silly test }}
+{{ page.title }}
 ================
 
 <p class="meta">11 October 2010 - Cambridge, MA</p>
@@ -16,7 +16,7 @@ Now I am pointing you to [Psychard wedding site](http://psychard.com/)
 
 Please [email me](psyche@psychard.com).
 
-![Psychard in Port Angeles, WA]](../images/psychard_wa.jpg "Psychard at Chris and Jamie's wedding, Port Angeles, WA")
---
+<img src="/images/psychard_wa.jpg" alt="Psychard in Port Angeles, WA"/>
+
 
 [Am I a link?](http://www.psycheloui.com/)
