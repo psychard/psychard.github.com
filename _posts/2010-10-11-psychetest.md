@@ -12,9 +12,9 @@ Hi pie!!
 
 I am *emphasizing* this word, because I feel __very strongly__ about it.
 
-Now I am pointing you to [Psychard wedding site](http://psychard.com/)
+Now I am pointing you to [Psychard wedding site]<http://www.psychard.com/>.
 
-Please [email me](psyche@psychard.com).
+Please [email me]<psyche@psychard.com>.
 
 <img src="/images/psychard_wa.jpg" alt="Psychard in Port Angeles, WA"/>
 
