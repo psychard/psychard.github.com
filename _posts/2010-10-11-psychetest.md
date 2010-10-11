@@ -10,6 +10,13 @@ title: I am a blog post.
 
 Hi pie!! 
 
+I am *emphasizing* this word, because I feel __very strongly__ about it.
+
+Now I am pointing you to [Psychard wedding site](http://psychard.com/)
+
+Please [email me](psyche@psychard.com).
+
+![Psychard in Port Angeles, WA]](../images/psychard_wa.jpg "Psychard at Chris and Jamie's wedding, Port Angeles, WA")
 --
 
 [Am I a link?](http://www.psycheloui.com/)
