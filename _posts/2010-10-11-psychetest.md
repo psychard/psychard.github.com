@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I am a blog post.
+published: true
 ---
 
 {{ page.title }}

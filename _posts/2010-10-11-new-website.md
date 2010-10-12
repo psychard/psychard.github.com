@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Website
+published: true
 ---
 
 {{ page.title }}
