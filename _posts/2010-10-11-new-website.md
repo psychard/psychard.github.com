@@ -13,4 +13,4 @@ This is an example post, and is not very exciting.
 
 --
 
-[Visit the old site](http://www.richardhenrywest.com/psychard/)
+[Visit the old site](http://www.richardhenrywest.com/Psychard/)
