@@ -4,9 +4,9 @@ title: Psyche and Richard
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <a href="blog.html"><h1>Recent News</h1></a>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:3 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
