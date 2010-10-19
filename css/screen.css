@@ -33,11 +33,12 @@ h1, h2, h3, h4, h5, h6 {
 h1, h2{
   font-size: 400%;
   font-family: "tangerine-1","tangerine-2",sans-serif;
+  font-weight: normal;
 }
 
 
 h1 {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.2em;
 }
 
 p {
@@ -97,10 +98,20 @@ ul.posts {
   line-height: 1.5em;
 }
 
-.title {
+.site_title {
   color: #a00;
   margin-bottom: 0.2em;
 	font: bold 140pt/1 "tangerine-1","tangerine-2",sans-serif;
+}
+
+.site .title {
+	position: absolute;
+	clear: both;
+	left: 0.5em;
+}
+
+.site .body {
+    
 }
 
   .site .title a {
@@ -204,5 +215,5 @@ ul.posts {
 }
 
   #related h2 {
-    margin-bottom: 1em;
+    margin-bottom: 0.2em;
   }
