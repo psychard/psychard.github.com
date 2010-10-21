@@ -30,11 +30,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
 }
 
-h1, h2{
+h1, h2, span.q{
   font-size: 400%;
   font-family: "tangerine-1","tangerine-2",sans-serif;
   font-weight: normal;
 }
+
 
 
 h1 {
@@ -105,10 +106,27 @@ ul.posts {
 }
 
 .site .title {
-	position: absolute;
+	position: fixed;
 	clear: both;
 	left: 0.5em;
+	background-color: white;
+	z-index: 1;
+	display: block;
 }
+
+.site .menu {
+	position: absolute;
+	left: 0.5em;
+	top: 10em;
+}
+
+.site .menu ul li {
+	display: block;
+	list-style-type: none;
+	padding-bottom: 2em;
+}
+
+
 
 .site .body {
     
@@ -217,3 +235,7 @@ ul.posts {
   #related h2 {
     margin-bottom: 0.2em;
   }
+
+span.q {
+	
+}
