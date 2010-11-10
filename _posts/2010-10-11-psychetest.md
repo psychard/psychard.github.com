@@ -8,10 +8,9 @@ title: Save the date!
 
 <p class="meta">10 November 2010 - Cambridge, MA</p>
 
-_Save the date_
-August 21, 2011
+h1. August 21, 2011
 in
-Cambridge, MA, USA
+h2. Cambridge, MA, USA
 
 Check back for updates at [Psychard wedding site](http://www.psychard.com/)
 
