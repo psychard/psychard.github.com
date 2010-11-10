@@ -7,8 +7,8 @@
 /* Global Reset */
 
 * {
-  margin: 100;
-  padding: 100;
+  margin: 0;
+  padding: 0;
 }
 
 html, body {
@@ -88,7 +88,7 @@ ul.posts {
   font-size: 110%;
   text-align: justify;
   width: 40em;
-  margin: 3em auto 2em auto;
+  margin: 4em auto 2em auto;
   line-height: 1.5em;
 }
 
