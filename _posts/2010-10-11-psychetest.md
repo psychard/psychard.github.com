@@ -8,7 +8,7 @@ title: Save the date!
 
 <p class="meta">10 November 2010 - Cambridge, MA</p>
 
-*Save the date*
+_Save the date_
 August 21, 2011
 in
 Cambridge, MA, USA
