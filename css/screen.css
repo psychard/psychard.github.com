@@ -33,7 +33,7 @@ h1, h2{
 
 
 h1 {
-  margin-bottom: 0.5em;
+  margin-bottom: 1.5em;
 }
 
 p {
@@ -97,7 +97,7 @@ ul.posts {
   font-family: "tangerine-1","tangerine-2",sans-serif;
   font-size: 140pt;
   font-weight: bold;
-  margin-bottom: 1.5em;
+  margin-bottom: 0.5em;
 }
 
   .site .title a {
