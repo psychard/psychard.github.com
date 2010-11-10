@@ -14,7 +14,7 @@ Our wedding will be on
 
 in
 
-<h2>Cambridge, MA, USA</h2>
+<h3>Cambridge, MA, USA</h3>
 
 Check back for updates at [Psychard wedding site](http://www.psychard.com/)
 
