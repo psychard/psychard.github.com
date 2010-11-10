@@ -1,22 +1,24 @@
 ---
 layout: post
-title: I am a blog post.
+title: Save the date!
 ---
 
 {{ page.title }}
 ================
 
-<p class="meta">11 October 2010 - Cambridge, MA</p>
+<p class="meta">10 November 2010 - Cambridge, MA</p>
 
-Hi pie!! 
+*Save the date*
+August 21, 2011
+in
+Cambridge, MA, USA
 
-I am *emphasizing* this word, because I feel __very strongly__ about it.
+Check back for updates at [Psychard wedding site](http://www.psychard.com/)
 
-Now I am pointing you to [Psychard wedding site](http://www.psychard.com/)
-
-Please [email me](mailto:psyche@psychard.com).
+Please [email us](mailto:both@psychard.com).
 
 <img src="/images/psychard_wa.jpg" alt="Psychard in Port Angeles, WA"/>
 
 
-[Am I a link?](http://www.psycheloui.com/)
+[Psyche](http://www.psycheloui.com/)
+[Richard](http://www.richardhenrywest.com/)
