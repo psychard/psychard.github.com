@@ -105,9 +105,9 @@ ul.posts {
     text-decoration: none;
   }
 
-  .site .title a:hover {
+/*  .site .title a:hover {
     color: black;
-  }
+  }*/
 
   .site .title a.extra {
     color: #aaa;
