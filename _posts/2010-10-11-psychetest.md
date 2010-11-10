@@ -8,15 +8,15 @@ title: Save the date!
 
 <p class="meta">10 November 2010 - Cambridge, MA</p>
 
-h1. August 21, 2011
+<b>August 21, 2011</b>
 in
-h2. Cambridge, MA, USA
+<b>Cambridge, MA, USA</b>
 
 Check back for updates at [Psychard wedding site](http://www.psychard.com/)
 
 Please [email us](mailto:both@psychard.com).
 
-<img src="/images/psychard_wa.jpg" alt="Psychard in Port Angeles, WA"/>
+<img src="/images/psychard_wa.jpg" width = "600" alt="Psychard in Port Angeles, WA"/>
 
 
 [Psyche](http://www.psycheloui.com/)
