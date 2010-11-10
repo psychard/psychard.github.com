@@ -1,10 +1,16 @@
-h1. This is the data for our website
+h1. Psyche and Richard are getting married!
 
-It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever we push this repository to GitHub.
+*Save the date*
+August 21, 2011
+in
+Cambridge, MA, USA
+
+h3. Site maintenance
+This site is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever we push this repository to GitHub.
 
 It started off based on a site by "Tom Preston-Warner":http://github.com/mojombo/mojombo.github.com/
 
-h1. License
+h3. License
 
 The following directories and their contents are Copyright Richard West. You may not reuse anything therein without my permission:
 
