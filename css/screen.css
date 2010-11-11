@@ -95,7 +95,7 @@ ul.posts {
   font-size: 110%;
   text-align: justify;
   width: 40em;
-  margin: 2em auto 2em auto;
+  margin: 4em auto 2em auto;
   line-height: 1.5em;
 }
 
@@ -129,7 +129,7 @@ ul.posts {
 
 
 .site .body {
-    
+
 }
 
   .site .title a {
@@ -137,9 +137,9 @@ ul.posts {
     text-decoration: none;
   }
 
-  .site .title a:hover {
+/*  .site .title a:hover {
     color: black;
-  }
+  }*/
 
   .site .title a.extra {
     color: #aaa;
