@@ -1,3 +1,5 @@
+/* @override http://0.0.0.0:4000/css/screen.css */
+
 /*****************************************************************************/
 /*
 /* Common
@@ -94,8 +96,7 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 40em;
-  margin: 4em auto 2em auto;
+
   line-height: 1.5em;
 }
 
@@ -106,18 +107,11 @@ ul.posts {
 }
 
 .site .title {
-	position: fixed;
-	clear: both;
-	left: 0.5em;
-	background-color: white;
-	z-index: 1;
-	display: block;
 }
 
 .site .menu {
-	position: absolute;
-	left: 0.5em;
-	top: 10em;
+	overflow: auto;
+	padding-top: 2em;
 }
 
 .site .menu ul li {
@@ -127,9 +121,24 @@ ul.posts {
 }
 
 
+.site div.leftbar {
+	position: absolute;
+	left: 0;
+	top: 0;
+	padding-top: 2em;
+	padding-left:  0.5em;
+	position: fixed;
+	clear: both;
+	left: 0.5em;
+	z-index: 1;
+	overflow: visible;
+	width: 250px;
+}
 
 .site .body {
-
+	margin: 2em auto 0px auto;
+	padding-left: 250px;
+	width: 40em;
 }
 
   .site .title a {
@@ -161,12 +170,17 @@ ul.posts {
     border-top: 4px solid #eee;
     margin-top: 2em;
     overflow: hidden;
+    margin-left: 250px;
+    clear: both;
   }
 
     .site .footer .contact {
       float: left;
-      margin-right: 3em;
+      margin-left: 3em;
     }
+
+div.middle {
+}
 
       .site .footer .contact a {
         color: #8085C1;
@@ -239,3 +253,4 @@ ul.posts {
 span.q {
 	
 }
+
