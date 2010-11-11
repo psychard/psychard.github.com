@@ -9,7 +9,9 @@ title: Psyche and Richard
 </div>
 
 <div id="home">
-  <h1>Recent News</h1>
+  <p><img src="/images/psychard_montacute.jpg" width = "600" alt="Psychard at Montacute House, UK"/></p>
+  <br><br>  
+  <h1>News</h1>
   <ul class="posts">
     {% for post in site.posts limit:3 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>

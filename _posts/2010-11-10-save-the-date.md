@@ -10,11 +10,12 @@ title: Save the date!
 
 Our wedding will be on 
 
-<b>August 21, 2011</b>
+
+<h1>August 21, 2011</h1>
 
 in
 
-<b>Cambridge, MA, USA</b>
+<h2>Cambridge, MA, USA</h2>
 
 Check back for updates at [Psychard wedding site](http://www.psychard.com/)
 
