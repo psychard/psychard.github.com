@@ -19,9 +19,13 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
+	font-size: 14px;
+	font-family:  Georgia,
+             "New Century Schoolbook",
+             "Nimbus Roman No9 L",
+             serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -30,7 +34,11 @@ h1, h2, h3, h4, h5, h6 {
 
 h1, h2, span.q{
   font-size: 400%;
-  font-family: "tangerine-1","tangerine-2",sans-serif;
+  font-family: "tangerine-1","tangerine-2",
+  			"Bradley Hand ITC",
+             "Apple Chancery",
+             "URW Chancery L",
+             cursive;
   font-weight: normal;
 }
 
@@ -94,7 +102,11 @@ ul.posts {
    /*the huge title on the homepage */
   	color: #a00;
   	margin-bottom: 0.2em;
-	font: bold 140pt/1 "tangerine-1","tangerine-2",sans-serif;
+	font: bold 140pt/0 "tangerine-1","tangerine-2",
+  			"Bradley Hand ITC",
+             "Apple Chancery",
+             "URW Chancery L",
+             cursive;
 	text-align: center;
 }
 
