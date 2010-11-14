@@ -148,19 +148,25 @@ ul.posts {
   }
 
   .site .footer {
-    font-size: 80%;
-    color: #666;
-    border-top: 4px solid #eee;
     margin-top: 2em;
-    overflow: hidden;
-    margin-left: 250px;
+    overflow: show;
     clear: both;
+    margin: 1em auto 0px auto;
+    padding-left: 250px;
+    width: 40em;
   }
 
 .site .footer .contact {
+	border-top: 4px solid #eee;
+	font-size: 80%;
+    color: #666;
     float: left;
-    margin-left: 3em;
+    margin: 0 auto 0 auto;
+    width: 33.3%;
   }
+.site .footer .contact u {
+	padding-left: 3em;
+}
 
 div.middle {
 }
