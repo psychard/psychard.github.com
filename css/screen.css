@@ -101,13 +101,21 @@ ul.posts {
 .site_title { 
    /*the huge title on the homepage */
   	color: #a00;
-  	margin-bottom: 0.2em;
+  	margin-bottom: 0em;
 	font: bold 140pt/0 "tangerine-1","tangerine-2",
   			"Bradley Hand ITC",
              "Apple Chancery",
              "URW Chancery L",
              cursive;
 	text-align: center;
+	padding-top: 0.5em;
+	z-index: 1;
+	overflow: visible;
+	position: relative;
+}
+
+#home img {
+	margin-bottom: 2em;
 }
 
 
