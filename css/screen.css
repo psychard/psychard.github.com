@@ -19,9 +19,13 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
+	font-size: 14px;
+	font-family:  Georgia,
+             "New Century Schoolbook",
+             "Nimbus Roman No9 L",
+             serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -30,7 +34,11 @@ h1, h2, h3, h4, h5, h6 {
 
 h1, h2, span.q{
   font-size: 400%;
-  font-family: "tangerine-1","tangerine-2",sans-serif;
+  font-family: "tangerine-1","tangerine-2",
+  			"Bradley Hand ITC",
+             "Apple Chancery",
+             "URW Chancery L",
+             cursive;
   font-weight: normal;
 }
 
@@ -93,9 +101,21 @@ ul.posts {
 .site_title { 
    /*the huge title on the homepage */
   	color: #a00;
-  	margin-bottom: 0.2em;
-	font: bold 140pt/1 "tangerine-1","tangerine-2",sans-serif;
+  	margin-bottom: 0em;
+	font: bold 140pt/0 "tangerine-1","tangerine-2",
+  			"Bradley Hand ITC",
+             "Apple Chancery",
+             "URW Chancery L",
+             cursive;
 	text-align: center;
+	padding-top: 0.5em;
+	z-index: 1;
+	overflow: visible;
+	position: relative;
+}
+
+#home img {
+	margin-bottom: 2em;
 }
 
 
@@ -148,19 +168,25 @@ ul.posts {
   }
 
   .site .footer {
-    font-size: 80%;
-    color: #666;
-    border-top: 4px solid #eee;
     margin-top: 2em;
-    overflow: hidden;
-    margin-left: 250px;
+    overflow: show;
     clear: both;
+    margin: 1em auto 0px auto;
+    padding-left: 250px;
+    width: 40em;
   }
 
 .site .footer .contact {
+	border-top: 4px solid #eee;
+	font-size: 80%;
+    color: #666;
     float: left;
-    margin-left: 3em;
+    margin: 0 auto 0 auto;
+    width: 33.3%;
   }
+.site .footer .contact u {
+	padding-left: 3em;
+}
 
 div.middle {
 }
